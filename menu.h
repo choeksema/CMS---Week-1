@@ -8,4 +8,8 @@
 #pragma once
 
 // Function Prototypes
-int sound();
+int sound(void);
+int Menu(void);
+int debug(void);
+int phoneBook(void);
+int settings(void);
